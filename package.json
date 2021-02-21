@@ -1,0 +1,19 @@
+{
+  "name": "nik-validator",
+  "version": "1.0.0",
+  "description": "NIK Validator for Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nik-validator",
+    "NIK Validator",
+    "Javascript NIK Validator",
+    "NIK Checker",
+    "Javascript NIK Checker"
+  ],
+  "author": "fauzan121002",
+  "license": "MIT",
+  "dependencies": {}
+}
