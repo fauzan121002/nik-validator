@@ -2,7 +2,7 @@
   "name": "nik-validator",
   "version": "1.1.1",
   "description": "NIK Validator for Nodejs",
-  "main": "lib/validator.js",
+  "main": "src/lib/validator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
