@@ -1,6 +1,6 @@
 {
   "name": "nik-validator",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "NIK Validator for Nodejs",
   "main": "src/validator.js",
   "scripts": {
